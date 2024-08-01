@@ -1,0 +1,4 @@
+thongtruong232@gmail.com||Email is valid
+abccc2s2@gmail.com||Email does not exist
+elivibes0124@gmail.com||Email is valid
+dsa@dsa@gmail.com||Invalid email syntax
